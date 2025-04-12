@@ -1,4 +1,4 @@
-## Hi there 👋 Im Kruthik. 
+## Hi there 👋 I'm Kruthik. 
 
 
 📚 Master's in Business and Science Candidate at Rutgers University.
@@ -7,7 +7,7 @@
 
 🤖 Data-driven decision-maker skilled in Python, Pandas, and Machine Learning.
 
-🥇 Award-Winning athlete, referee, and referee trainer.
+🥇 Award-winning athlete, referee, and referee trainer.
 
 💡 Driven by insights, teamwork, and a growth mindset.
 
