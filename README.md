@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Kruthik. 
 
 
-📚 Master's in Business and Science Candidate at Rutgers University.
+📚 Master's in Business and Science Candidate - AI and Analytics at Rutgers University.
 
 📈 Data Analytics experience at Phillies, Rutgers Recreation, and Eltropy.
 
