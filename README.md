@@ -7,7 +7,7 @@
 
 🤖 Data-driven decision-maker skilled in Python, Pandas, and Machine Learning.
 
-🥇 Award-winning athlete, referee, and referee trainer.
+🥇 Award-winning athlete, referee, and leader.
 
 💡 Driven by insights, teamwork, and a growth mindset.
 
