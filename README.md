@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Kruthik. 
+## Hello there! I'm Kruthik. 
 
 
 📚 Master's in Business and Science Candidate - AI and Analytics at Rutgers University.
