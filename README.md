@@ -13,4 +13,4 @@
 
 🚀 Dream: Become an F1 Team Principal one day!
 
-😎 Weird Flex: I have over 2000 hours on Civ 6 (iPad)
+😎 Flex: I have over 2000 hours on Civ 6 (iPad)
